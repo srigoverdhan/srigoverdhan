@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sri Goverdhan
 - 👀 I’m a experienced Oracle PL/SQL and SOA(BRE) developer, passionate about Python, now Software Development Manager leading PL/SQL, BRE, ETL Teams.
-- 🌱 I’m currently learning Python...
+- 🌱 I’m currently exploring the cool features of Python...
 
 
 <!---
